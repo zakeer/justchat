@@ -1,0 +1,4 @@
+include ':app', ':actionbarsherlock', ':Volley', ':zoomimage'
+project(':actionbarsherlock').projectDir = new File('app/libs/actionbarsherlock')
+project(':Volley').projectDir = new File('app/libs/Volley')
+project(':zoomimage').projectDir = new File('app/libs/zoomimage')

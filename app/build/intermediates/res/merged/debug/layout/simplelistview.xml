@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+ 
+         <ListView
+              android:id="@+id/list"
+              android:layout_height="wrap_content"
+              android:layout_width="match_parent"
+              android:cacheColorHint="@color/transparent"
+              android:fadingEdge="none">
+         </ListView>
+ 	
+         <TextView
+	        android:id="@+id/showhide"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"
+	        android:text="No Results Found"
+	        android:textStyle="bold"
+	        android:textSize="18sp"
+	        android:visibility="invisible" />
+         
+</LinearLayout><!-- From: file:/F:/GitHub%20Respo/FreshIM/app/src/main/res/layout/simplelistview.xml -->

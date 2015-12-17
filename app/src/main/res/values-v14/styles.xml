@@ -1,0 +1,34 @@
+<resources>
+
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+    
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/holo_blue_light</item> 	
+        <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.Styled.ActionBar.Subtitle</item>
+        <item name="android:subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.Styled.ActionBar.Subtitle</item>
+    </style>
+    
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+    	<item name="android:textColor">@color/white</item>
+    	<item name="android:text">@string/actionbar_text</item>
+  	</style>
+  	
+    <style name="TextAppearance.Sherlock.Widget.Styled.ActionBar.Subtitle" parent="Widget">
+	    <item name="android:textSize">@dimen/actionbar_subtitle_textsize</item>
+	</style>
+  	
+    <style name="NoActionBar" parent="@android:style/Theme.Holo.Light.NoActionBar"/>
+    
+</resources>

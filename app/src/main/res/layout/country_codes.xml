@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <LinearLayout
+        android:id="@+id/country_code_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/gray_d"
+        android:orientation="vertical" >
+    		    
+        <RelativeLayout
+	        android:id="@+id/country_code_list_layout"
+	    	android:layout_width="match_parent"
+	    	android:layout_height="0dip"
+	        android:layout_weight="85"
+	        android:gravity="center"
+	        android:background="@color/gray_e" >
+	        
+	        <RelativeLayout
+		        android:id="@+id/progress_loader_layout"
+		    	android:layout_width="match_parent"
+		    	android:layout_height="50sp"
+			    android:visibility="gone"
+			    android:padding="5dp" 
+			    android:layout_centerVertical="true"
+			    android:background="@color/white">
+			    
+		        <ProgressBar
+			        android:id="@+id/progressBarLoader"
+			        style="?android:attr/progressBarStyleSmall"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_alignParentRight="true"
+			        android:layout_centerVertical="true" />
+		    	
+			    <TextView
+			        android:id="@+id/loader_text"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"  
+			        android:layout_toLeftOf="@id/progressBarLoader" 
+			        android:layout_alignParentLeft="true"
+			        android:layout_centerVertical="true"
+			        android:gravity="center"
+			        android:text="Loading. Please wait..." />
+		    
+		    </RelativeLayout>
+			
+            <RelativeLayout
+		        android:id="@+id/country_code_edittext_layout"
+		    	android:layout_width="match_parent"
+		    	android:layout_height="wrap_content"
+		    	android:paddingBottom="1dp"
+			    android:background="@color/gray_a">
+			    
+                <RelativeLayout
+			    	android:layout_width="match_parent"
+			    	android:layout_height="wrap_content"
+			    	android:padding="10sp"
+				    android:background="@color/gray_e">
+		    		
+				    <EditText
+				        android:id="@+id/country_code_edittext"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"  
+				        android:layout_centerVertical="true"
+				        android:padding="10dp"
+				        android:inputType="textNoSuggestions"
+				        android:lines="1"
+				        android:hint="search by name" 
+				        android:background="@drawable/sublayout_white"/>
+			    
+			    </RelativeLayout>
+		    	
+		    </RelativeLayout>
+		    
+            <RelativeLayout
+		        android:id="@+id/code_listview_layout"
+		    	android:layout_width="match_parent"
+		    	android:layout_height="wrap_content"
+			    android:layout_alignParentBottom="true"
+				android:layout_below="@id/country_code_edittext_layout">
+		    	
+			    <ListView
+			        android:id="@+id/code_listview"
+			        android:layout_width="match_parent"
+			        android:layout_height="match_parent"
+			        android:scrollbars="none"
+			        android:smoothScrollbar="true"
+			        android:scrollingCache="true" 
+			        android:listSelector="@drawable/selector_list">
+			    </ListView>
+		    	
+		    </RelativeLayout>
+            
+	    
+	    </RelativeLayout>
+    
+    </LinearLayout>
+
+</RelativeLayout>

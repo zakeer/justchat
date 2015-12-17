@@ -1,0 +1,57 @@
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
+
+//apply plugin: 'android-library'
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion '22.0.0'
+    defaultConfig {
+        applicationId 'me.zakeer.justchat'
+        minSdkVersion 14
+        targetSdkVersion 17
+
+        multiDexEnabled true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+    buildTypes {
+        release {
+            //runProguard true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'),
+                    'proguard-rules.pro'
+        }
+    }
+    dexOptions {
+        preDexLibraries = false
+    }
+    productFlavors {
+    }
+}
+
+
+
+dependencies {
+    compile 'com.android.support:multidex:1.0.0'
+    //compile 'com.android.support:support-v4:19.1.0'
+    compile('com.google.android.gms:play-services:7.0.0') {
+        exclude module: 'support-v4'
+    }
+    compile files('libs/sdk-1.0.1.jar')
+    //compile files('libs/google-play-services_lib/bin/google-play-services_lib.jar')
+    /*compile ('org.solovyev.android:android-common-sherlock:1.1.18') {
+                    exclude module: 'support-v4'
+                }*/
+    compile project(':actionbarsherlock')
+    compile project(':Volley')
+    compile project(':zoomimage')
+}
+
+

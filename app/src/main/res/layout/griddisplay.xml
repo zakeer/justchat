@@ -1,0 +1,21 @@
+<!-- A DrawerLayout is intended to be used as the top-level content view using match_parent for both width and height to consume the full space available. -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:gravity="center">
+    
+	<GridView
+	        android:id="@+id/gridview"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:numColumns="auto_fit"
+		    android:gravity="center"
+		    android:columnWidth="80dp"
+		    android:stretchMode="columnWidth"
+	        android:horizontalSpacing="10dp"
+    		android:verticalSpacing="10dp"
+    		android:fadingEdge="none"/>
+	
+   
+</RelativeLayout>

@@ -1,0 +1,115 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    
+    <RelativeLayout
+        android:id="@+id/actionbar"
+    	android:layout_width="match_parent"
+    	android:layout_height="?android:attr/actionBarSize"
+    	android:background="@color/holo_blue_light"
+    	>
+    	
+        <RelativeLayout
+	    	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+	    	android:layout_centerVertical="true"
+	    	android:onClick="onToggleClick" >
+    		
+        	<ImageView
+		        android:id="@+id/toggle"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_centerVertical="true"
+		        android:src="@drawable/ic_action_next_item" />
+        	
+        	<ImageView
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_toRightOf="@id/toggle"
+		        android:layout_centerVertical="true"
+		        android:src="@drawable/top_logo_fresh" />
+    		
+		</RelativeLayout>
+		
+        <RelativeLayout
+	    	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+	    	android:layout_centerInParent="true"
+	    	android:padding="3dp">
+    		
+        	<TextView
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_centerVertical="true"
+		        android:text="@string/app_name"
+		        android:textColor="@color/white"
+		        android:textSize="26sp"/>
+    		
+		</RelativeLayout>
+		
+        <RelativeLayout
+	    	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+	    	android:layout_alignParentRight="true"
+	    	android:layout_centerVertical="true"
+	    	android:padding="3dp"
+	    	android:visibility="visible">
+    		
+        	<ImageView
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_centerVertical="true"
+		        android:src="@drawable/ic_action_new"
+		        android:onClick="onAddClick" />
+    		
+		</RelativeLayout>
+    	
+	</RelativeLayout>
+    
+    <LinearLayout
+        android:id="@+id/oopsLayout"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical"
+    	android:layout_below="@id/actionbar"
+    	android:layout_alignParentBottom="true"
+    	android:visibility="gone"
+    	android:gravity="center" >
+        
+        <ImageView
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:scaleType="fitCenter"
+		    android:src="@drawable/oops"
+		    android:contentDescription="@string/oops_nofriends" />
+		
+        <TextView
+			android:layout_width="wrap_content"
+		 	android:layout_height="wrap_content"
+		  	android:text="@string/oops_nofriends"
+		  	android:gravity="center"
+		  	android:textStyle="bold"
+		  	android:textSize="26sp"/>
+    	
+	</LinearLayout>
+	
+    <RelativeLayout
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_below="@id/actionbar"
+    	android:visibility="visible" >
+        
+        <ListView
+	        android:id="@+id/listview"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:layout_alignParentTop="true"
+	        android:scrollbars="none"
+	        android:fadingEdge="none" />
+    	
+	</RelativeLayout>
+	
+</RelativeLayout>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-d05462c40a68346c4ceed75c0cfc09f800f086b1.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-b66df102fcd4bc44d377a89d09be01aa3d57557b.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-6eb6dcd9fd143ca1b13ae6e08ecb774bab798f7a.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-22ba68ab309fb4b140b72bc314acb062e1aac258.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-79018ba6b15dce56f0b98ba2ac65064543e2754c.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-0fc14570d0c4617009db66d7777e713484ca2845.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-10ffe2493cd2649fc9a23b495760bcd57c53736e.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-b7c6d3eb96d20366babde153f35a45d72bd526c4.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-077c1a083a70a9331da1aca38c3d798a5f10c0ab.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\it.sephiroth.android.library.easing\library\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="524dbb5c53295c006c7aa1a209aae0407d6ebc53">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-38dc3a9b49dab2ebcbd76d8f814b2bd3b69e806c.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-e6b1c7b8613b0cf3c9c6fd8ba4115a9151c13bd1.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-48150af037e884d1fa653655a1f807a3f49e6749.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-b6b71d62c99a082bd9a998bf382df7c9f9ddddab.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-ec59db407372c377d7eb54714587855b21c1ae62.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-b6b71d62c99a082bd9a998bf382df7c9f9ddddab.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-79018ba6b15dce56f0b98ba2ac65064543e2754c.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-48150af037e884d1fa653655a1f807a3f49e6749.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-8bad441b04cfa8f307ebe179fc6e9c165e80bc03.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-244390cc47db47b04d3ea9c76032665141bc5b83.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\FreshIM\actionbarsherlock\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a97950fb728de6dca7dafb2f1fa038c2dffab78">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-ef564b3c05d09e0f112fd3d96f458a6cd0b5509e.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-5d4320e5d79daa8f50497baf90c30039a7b1805b.jar" />
+    </item>
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\dev\debug\support-v4-19.1.0-2e6e25d109b7d5cb6678a669b8dfd80fa379256f.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\libs\sdk-1.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d73d41fbf99bebaeda16a6a7a121661195a21b5">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\sdk-1.0.1-f5379ba2d6067382129620c6eb588912a47577ce.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-aca1b34208ed2921910f1233ad4d40e7be28a90c.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\it.sephiroth.android.library.imagezoom\zoomimage\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="87740100805653059c10df53c83da8aad8b6dcff">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-8c55fe7ea38808a1d370187c24114c50a32c00b2.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-e6b1c7b8613b0cf3c9c6fd8ba4115a9151c13bd1.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-b2cc56c1be1514a3962a50b57ae8b872252da28b.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-aca1b34208ed2921910f1233ad4d40e7be28a90c.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\FreshIM\actionbarsherlock\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6de9b35c12c95a4fb2511003b9a2a3c8c3192ca6">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\dev\debug\classes-ef564b3c05d09e0f112fd3d96f458a6cd0b5509e.jar" />
+    </item>
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-366ff4f469bfdf505613cd2186f071afcb88894f.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\it.sephiroth.android.library.imagezoom\zoomimage\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3ac36f3337e658aa1e892ac45841f5a2ed30e946">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-8c55fe7ea38808a1d370187c24114c50a32c00b2.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-5b4735c1f01695d3c1d78e29fa636aa7ab4aa73d.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-5d4320e5d79daa8f50497baf90c30039a7b1805b.jar" />
+    </item>
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-366ff4f469bfdf505613cd2186f071afcb88894f.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-ec59db407372c377d7eb54714587855b21c1ae62.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\FreshIM\Volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="895f0cd92aa4cf0b7a83f9585824ca0a97131348">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-2bdf6ccd8c28208b22e250ff842f4c1a38e50ac8.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-22ba68ab309fb4b140b72bc314acb062e1aac258.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-9fb52d58c7ae621e1da8bec3870f006fa9ef9865.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-b66df102fcd4bc44d377a89d09be01aa3d57557b.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-b2cc56c1be1514a3962a50b57ae8b872252da28b.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-3327058ed58fe041624e7f8f4cf4bdfd0d03d77b.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-9fb52d58c7ae621e1da8bec3870f006fa9ef9865.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-244390cc47db47b04d3ea9c76032665141bc5b83.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\it.sephiroth.android.library.easing\library\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="524dbb5c53295c006c7aa1a209aae0407d6ebc53">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-38dc3a9b49dab2ebcbd76d8f814b2bd3b69e806c.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-0fc14570d0c4617009db66d7777e713484ca2845.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\FreshIM\Volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1088c89aeeb8c569cc9f9baa910f353d6930d08e">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-2bdf6ccd8c28208b22e250ff842f4c1a38e50ac8.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\libs\sdk-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9d73d41fbf99bebaeda16a6a7a121661195a21b5">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\sdk-1.0.1-f5379ba2d6067382129620c6eb588912a47577ce.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-077c1a083a70a9331da1aca38c3d798a5f10c0ab.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-6eb6dcd9fd143ca1b13ae6e08ecb774bab798f7a.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-3327058ed58fe041624e7f8f4cf4bdfd0d03d77b.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-d05462c40a68346c4ceed75c0cfc09f800f086b1.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-10ffe2493cd2649fc9a23b495760bcd57c53736e.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-b7c6d3eb96d20366babde153f35a45d72bd526c4.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-5b4735c1f01695d3c1d78e29fa636aa7ab4aa73d.jar" />
+    </item>
+    <item
+        jar="F:\GitHub Respo\FreshIM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="F:\GitHub Respo\FreshIM\app\build\intermediates\pre-dexed\debug\classes-8bad441b04cfa8f307ebe179fc6e9c165e80bc03.jar" />
+    </item>
+
+</items>

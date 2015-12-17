@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/GitHub%20Respo/FreshIM/app/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+    <style name="MyActionBar" parent="Widget.Sherlock.Light.ActionBar">
+        <item name="android:background">@color/holo_blue_light</item> 	
+        <item name="background">@color/holo_blue_light</item> 	
+        <item name="titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.Styled.ActionBar.Subtitle</item>
+        <item name="android:subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.Styled.ActionBar.Subtitle</item>
+    </style>
+    <style name="MyTheme" parent="@style/Theme.Sherlock.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="TextAppearance.Sherlock.Widget.ActionBar.Title">
+    	<item name="android:textColor">@color/white</item>
+    	<item name="android:text">@string/actionbar_text</item>
+  	</style>
+    <style name="NoActionBar" parent="@style/Theme.Sherlock.Light.NoActionBar"/>
+    <!-- From: file:/F:/GitHub%20Respo/FreshIM/app/build/intermediates/exploded-aar/FreshIM/actionbarsherlock/unspecified/res/values-v11/values-v11.xml -->
+    <eat-comment/>
+    <style name="Sherlock.__Theme" parent="android:Theme.Holo">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Sherlock.__Theme.Light" parent="android:Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <!-- From: file:/F:/GitHub%20Respo/FreshIM/app/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="TextAppearance.Sherlock.Widget.Styled.ActionBar.Subtitle" parent="Widget">
+	    <item name="android:textSize">@dimen/actionbar_subtitle_textsize</item>
+	</style>
+</resources>
