@@ -116,7 +116,7 @@ protected static final String TAG = "UserActivity";
 		startService(new Intent(this, QBVideoChatService.class));
 		
 		QBSessions q = new QBSessions(context);
-		q.CheckUserAlive();
+		//q.CheckUserAlive();
 		
 		actionBarLayout = (RelativeLayout) findViewById(R.id.actionbar);
 		animation = AnimationUtils.loadAnimation(context, R.anim.fade_actionbar);

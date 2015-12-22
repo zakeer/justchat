@@ -4,11 +4,11 @@ import me.zakeer.justchat.R;
 
 public class Constant {
 	
-	public static final String URL 				= "http://www.gbggoa.org/testproject/imapp/";
+	public static final String URL 				= "http://d6a925b1.ngrok.io/";
 	public static final String FOLDER_IMAGES	= "images/";
 	public static final String FOLDER_STICKER	= FOLDER_IMAGES + "sticker/";
 	
-	public static final String TAG_APP_NAME = "me.zakeer.freshim";
+	public static final String TAG_APP_NAME = "me.zakeer.justchat";
 	
 	public static final int ACTIONBAR_ICON = R.drawable.top_logo_fresh;
 	

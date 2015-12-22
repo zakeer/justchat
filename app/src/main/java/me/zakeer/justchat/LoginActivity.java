@@ -25,6 +25,7 @@ import me.zakeer.justchat.interfaces.OnAsyncTaskListener;
 import me.zakeer.justchat.items.UserDetailItem;
 import me.zakeer.justchat.qb.DataHolder;
 import me.zakeer.justchat.qb.QbConnect;
+import me.zakeer.justchat.sessions.SessionQb;
 import me.zakeer.justchat.sessions.Sessions;
 import me.zakeer.justchat.utility.AlertDialogManager;
 import me.zakeer.justchat.utility.AsyncLoadVolley;
@@ -96,9 +97,7 @@ public class LoginActivity extends Activity {
         {
         	requestWindowFeature(Window.FEATURE_NO_TITLE);
         	setContentView(R.layout.login);
-			Intent i = new Intent(getApplicationContext(), FriendsListActivity.class);
-			startActivity(i);
-			finish();
+
         	
             if (checkPlayServices()) {
                 gcm = GoogleCloudMessaging.getInstance(this);
@@ -452,7 +451,7 @@ public class LoginActivity extends Activity {
     
     //// QB
     
-    /*
+
     private void createQbSession(String login, final String password) {
     	
         // Create QuickBlox session with user
@@ -467,7 +466,7 @@ public class LoginActivity extends Activity {
                     DataHolder.getInstance().setCurrentQbUser(((QBSessionResult) result).getSession().getUserId(), password);
                     
                     int userId = ((QBSessionResult) result).getSession().getUserId();
-                    SessionQb.save(context, ""+userId);
+                    SessionQb.save(context, "" + userId);
                     showToast("succ : qb user id : "+userId);
                     
                     Log.e(TAG, "succ : qb user id : "+userId);
@@ -475,5 +474,5 @@ public class LoginActivity extends Activity {
             }
         });
     }
-    */
+
 }

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\GitHub Respo\FreshIM\app\libs\zoomimage\assets"/></dataSet><dataSet config="release"><source path="F:\GitHub Respo\FreshIM\app\libs\zoomimage\src\release\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\GitHub Respo\JustChat\app\libs\zoomimage\assets"/></dataSet><dataSet config="release"><source path="F:\GitHub Respo\JustChat\app\libs\zoomimage\src\release\assets"/></dataSet></merger>

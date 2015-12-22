@@ -4,4 +4,4 @@
     <item android:drawable="@color/green" android:state_pressed="true"></item>    
     <item android:drawable="@color/green_android"></item>
 	
-</selector><!-- From: file:/F:/GitHub%20Respo/FreshIM/app/src/main/res/drawable/selector_list_green.xml -->
+</selector><!-- From: file:/F:/GitHub%20Respo/JustChat/app/src/main/res/drawable/selector_list_green.xml -->

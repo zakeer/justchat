@@ -24,7 +24,7 @@
 		        android:scaleType="centerCrop"
 		        android:src="@drawable/user" />
 -->
-	        <com.chat.justchat.utility.RoundedImageView
+	        <me.zakeer.justchat.utility.RoundedImageView
 	            android:id="@+id/friend_image"
 	            android:layout_width="60dp"
 	            android:layout_height="60dp"
@@ -117,4 +117,4 @@
 	        
     </RelativeLayout>
       
-</RelativeLayout><!-- From: file:/F:/GitHub%20Respo/FreshIM/app/src/main/res/layout/friendlistitem.xml -->
+</RelativeLayout><!-- From: file:/F:/GitHub%20Respo/JustChat/app/src/main/res/layout/friendlistitem.xml -->

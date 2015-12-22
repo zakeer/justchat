@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/F:/GitHub%20Respo/FreshIM/app/src/main/res/values-v14/styles.xml -->
+    <!-- From: file:/F:/GitHub%20Respo/JustChat/app/src/main/res/values-v14/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
         <!-- API 14 theme customizations can go here. -->
@@ -19,7 +19,7 @@
     	<item name="android:text">@string/actionbar_text</item>
   	</style>
     <style name="NoActionBar" parent="@android:style/Theme.Holo.Light.NoActionBar"/>
-    <!-- From: file:/F:/GitHub%20Respo/FreshIM/app/build/intermediates/exploded-aar/FreshIM/actionbarsherlock/unspecified/res/values-v14/values-v14.xml -->
+    <!-- From: file:/F:/GitHub%20Respo/JustChat/app/build/intermediates/exploded-aar/JustChat/actionbarsherlock/unspecified/res/values-v14/values-v14.xml -->
     <eat-comment/>
     <style name="Sherlock.__Theme" parent="android:Theme.Holo">
     </style>
@@ -65,12 +65,12 @@
     </style>
     <style name="TextAppearance.Sherlock.Widget.PopupMenu.Small" parent="android:TextAppearance.Holo.Widget.PopupMenu.Small">
     </style>
-    <!-- From: file:/F:/GitHub%20Respo/FreshIM/app/src/main/res/values-v14/styles.xml -->
+    <!-- From: file:/F:/GitHub%20Respo/JustChat/app/src/main/res/values-v14/styles.xml -->
     <eat-comment/>
     <style name="TextAppearance.Sherlock.Widget.Styled.ActionBar.Subtitle" parent="Widget">
 	    <item name="android:textSize">@dimen/actionbar_subtitle_textsize</item>
 	</style>
-    <!-- From: file:/F:/GitHub%20Respo/FreshIM/app/build/intermediates/exploded-aar/FreshIM/actionbarsherlock/unspecified/res/values-v14/values-v14.xml -->
+    <!-- From: file:/F:/GitHub%20Respo/JustChat/app/build/intermediates/exploded-aar/JustChat/actionbarsherlock/unspecified/res/values-v14/values-v14.xml -->
     <eat-comment/>
     <style name="Theme.Sherlock.Light.NoActionBar">
       <item name="android:windowActionBar">false</item>

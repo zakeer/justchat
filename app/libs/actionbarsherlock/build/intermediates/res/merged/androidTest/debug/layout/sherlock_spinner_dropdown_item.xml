@@ -24,4 +24,4 @@
     android:layout_width="match_parent"
     android:layout_height="?attr/dropdownListPreferredItemHeight"
     android:ellipsize="marquee" />
-<!-- From: file:/F:/GitHub%20Respo/FreshIM/app/libs/actionbarsherlock/res/layout/sherlock_spinner_dropdown_item.xml --><!-- From: file:/F:/GitHub%20Respo/FreshIM/app/libs/actionbarsherlock/build/intermediates/bundles/debug/res/layout/sherlock_spinner_dropdown_item.xml -->
+<!-- From: file:/F:/GitHub%20Respo/JustChat/app/libs/actionbarsherlock/res/layout/sherlock_spinner_dropdown_item.xml --><!-- From: file:/F:/GitHub%20Respo/JustChat/app/libs/actionbarsherlock/build/intermediates/bundles/debug/res/layout/sherlock_spinner_dropdown_item.xml -->

@@ -42,6 +42,7 @@ public class AsyncLoadVolley {
 		this.context = context;
 		connectionDetector = new ConnectionDetector(context);
 		init();
+		Log.d("URL", url);
 	}
 	
 	private void init() {

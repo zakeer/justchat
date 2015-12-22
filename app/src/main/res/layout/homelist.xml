@@ -21,7 +21,7 @@
 		        android:layout_marginTop="5dp"
 		        android:src="@drawable/ic_launcher"/>
 			 -->
-             <com.chat.justchat.utility.RoundedImageView
+             <me.zakeer.justchat.utility.RoundedImageView
 	            android:id="@+id/user_image"
 	            android:layout_width="90dp"
 	            android:layout_height="90dp"

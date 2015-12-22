@@ -4,4 +4,4 @@
     <item android:color="@color/orange" android:state_pressed="true"></item>
     <item android:color="@color/white"></item>
 	
-</selector><!-- From: file:/F:/GitHub%20Respo/FreshIM/app/src/main/res/drawable/selector_button_text.xml -->
+</selector><!-- From: file:/F:/GitHub%20Respo/JustChat/app/src/main/res/drawable/selector_button_text.xml -->

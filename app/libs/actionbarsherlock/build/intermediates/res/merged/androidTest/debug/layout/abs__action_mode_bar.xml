@@ -22,4 +22,4 @@
      android:layout_height="wrap_content"
      android:visibility="gone"
      style="?attr/actionModeStyle" />
-<!-- From: file:/F:/GitHub%20Respo/FreshIM/app/libs/actionbarsherlock/res/layout/abs__action_mode_bar.xml --><!-- From: file:/F:/GitHub%20Respo/FreshIM/app/libs/actionbarsherlock/build/intermediates/bundles/debug/res/layout/abs__action_mode_bar.xml -->
+<!-- From: file:/F:/GitHub%20Respo/JustChat/app/libs/actionbarsherlock/res/layout/abs__action_mode_bar.xml --><!-- From: file:/F:/GitHub%20Respo/JustChat/app/libs/actionbarsherlock/build/intermediates/bundles/debug/res/layout/abs__action_mode_bar.xml -->

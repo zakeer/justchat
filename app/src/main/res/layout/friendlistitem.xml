@@ -24,7 +24,7 @@
 		        android:scaleType="centerCrop"
 		        android:src="@drawable/user" />
 -->
-	        <com.chat.justchat.utility.RoundedImageView
+	        <me.zakeer.justchat.utility.RoundedImageView
 	            android:id="@+id/friend_image"
 	            android:layout_width="60dp"
 	            android:layout_height="60dp"

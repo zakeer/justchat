@@ -1,0 +1,162 @@
+-injars 'F:\GitHub Respo\JustChat\app\build\intermediates\multi-dex\debug\allclasses.jar'
+-outjars 'F:\GitHub Respo\JustChat\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'E:\sdk\build-tools\22.0.0\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontpreverify
+-dontwarn
+-printconfiguration 'F:\GitHub Respo\JustChat\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class me.zakeer.justchat.LoginActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.FriendsListActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.FriendsAllListActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.FriendsDetailActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.RegisterActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.UserDetailActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.StatusActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.SettingsActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.EditProfileActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.EditPasswordActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.GroupCreateActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.GroupListActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.GroupMessageDetailActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.GroupChooseFriendListActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.GroupDetailActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.GroupEditMemberListActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.UploadFileActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.CountryCodesActivity {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.InviteFriends {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.AddContactFriend {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.qb.ActivityVideoChat {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.qb.ActivityCallUser {
+    <init>();
+}
+
+-keep class com.quickblox.module.videochat.core.service.QBVideoChatService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.GcmBroadcastReceiver {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.GcmIntentService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.LoadImageService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.LoadFileService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.ResponseRequestService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.FriendRequestService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.DownLoadFileService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.DownloadImageService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.LastSeenGetService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.LastSeenSetService {
+    <init>();
+}
+
+-keep class me.zakeer.justchat.services.QbRegisterService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

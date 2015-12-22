@@ -36,4 +36,4 @@ enabled.
          android:foregroundGravity="fill_horizontal|top"
          android:foreground="?attr/windowContentOverlay" />
 </LinearLayout>
-<!-- From: file:/F:/GitHub%20Respo/FreshIM/app/libs/actionbarsherlock/res/layout/abs__screen_simple.xml --><!-- From: file:/F:/GitHub%20Respo/FreshIM/app/build/intermediates/exploded-aar/FreshIM/actionbarsherlock/unspecified/res/layout/abs__screen_simple.xml -->
+<!-- From: file:/F:/GitHub%20Respo/JustChat/app/libs/actionbarsherlock/res/layout/abs__screen_simple.xml --><!-- From: file:/F:/GitHub%20Respo/JustChat/app/build/intermediates/exploded-aar/JustChat/actionbarsherlock/unspecified/res/layout/abs__screen_simple.xml -->
